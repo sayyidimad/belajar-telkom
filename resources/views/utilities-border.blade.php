@@ -1,4 +1,7 @@
 @extends('layout.dashboard')
+@section('menu-utility', 'active')
+@section('menu-utility-show', 'show')
+@section('menu-utility-border', 'active')
 @section('content')
 <!-- Begin Page Content -->
 <div class="container-fluid">

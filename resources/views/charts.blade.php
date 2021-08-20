@@ -1,4 +1,5 @@
 @extends('layout.dashboard')
+@section('menu-chart', 'active')
 @section('content')
 <!-- Begin Page Content -->
 <div class="container-fluid">

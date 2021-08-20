@@ -26,7 +26,7 @@ Route::view('charts', 'charts');
 Route::view('/', 'index');
 
 // use different layout
-Route::view('forgot-password', 'forgot-password');
+Route::view('password', 'forgot-password');
 Route::view('login', 'login');
 Route::view('register', 'register');
 
